@@ -19,5 +19,10 @@
   "homepage": "https://github.com/CL16006/CL16006-dsi-instructoria-2#readme",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-plugin-import": "^2.26.0",
+    "prettier": "2.7.1"
   }
 }
